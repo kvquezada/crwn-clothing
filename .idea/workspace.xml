@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fc25b33-369f-44ba-832f-d78e9a157ca9" name="Default Changelist" comment="updating stripe integration and updating our favicon and title">
+      <change afterPath="$PROJECT_DIR$/src/components/with-spinner/with-spinner.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/with-spinner/with-spinner.styles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/shop/shop.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/shop/shop.types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/shop/shop.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/shop/shop.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop.reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop.selectors.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/components/with-spinner/with-spinner.styles.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/with-spinner/with-spinner.component.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/page/checkout/checkout.component.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.scss" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/App.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/redux/cart/cart.actions.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1sFBACwqAhYCDs2hyBaQNrtHjkE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebProjects\crwn-clothing\src\components\with-spinner" />
+      <recent name="D:\WebProjects\crwn-clothing\src\redux\shop" />
+      <recent name="D:\WebProjects\crwn-clothing\src\components\checkout-item" />
+      <recent name="D:\WebProjects\crwn-clothing\src\page\checkout" />
+      <recent name="D:\WebProjects\crwn-clothing\src\components\custom-button" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebProjects\crwn-clothing\public" />
+      <recent name="D:\WebProjects\crwn-clothing\src\page\collection" />
+      <recent name="D:\WebProjects\crwn-clothing\src\components\collections-overview" />
+      <recent name="D:\WebProjects\crwn-clothing\src\components\checkout" />
+      <recent name="D:\WebProjects\crwn-clothing\src\components\cart-item" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fc25b33-369f-44ba-832f-d78e9a157ca9" name="Default Changelist" comment="" />
+      <created>1620458311125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620458311125</updated>
+      <workItem from="1620458312870" duration="7045000" />
+      <workItem from="1620964225983" duration="74000" />
+      <workItem from="1621092440072" duration="8270000" />
+      <workItem from="1621172823623" duration="10893000" />
+      <workItem from="1621219496742" duration="8513000" />
+      <workItem from="1621258822428" duration="595000" />
+      <workItem from="1621267074806" duration="6013000" />
+      <workItem from="1621334675363" duration="15287000" />
+      <workItem from="1621432026005" duration="16000" />
+      <workItem from="1621995215292" duration="11810000" />
+      <workItem from="1622091903099" duration="104000" />
+      <workItem from="1622685456503" duration="1391000" />
+      <workItem from="1622896356691" duration="129000" />
+      <workItem from="1622912148243" duration="4321000" />
+      <workItem from="1622946373918" duration="4567000" />
+      <workItem from="1625737450914" duration="28000" />
+      <workItem from="1644628282398" duration="1011000" />
+      <workItem from="1644633395977" duration="8000" />
+      <workItem from="1644633472518" duration="271000" />
+      <workItem from="1644633753423" duration="37000" />
+      <workItem from="1644673765679" duration="3306000" />
+      <workItem from="1644711313520" duration="628000" />
+      <workItem from="1644726389348" duration="2357000" />
+    </task>
+    <task id="LOCAL-00001" summary="broken our homepage into smaller components, finished styling our menu-item component">
+      <created>1620462903010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620462903010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added routing, withrouter">
+      <created>1621092636982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621092636982</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updating our app with a shop page, collection preview and collection item component">
+      <created>1621094929614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621094929614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added header component and links to home, shop and contact">
+      <created>1621095891181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621095891181</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added signin, custom button components">
+      <created>1621173000757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621173000757</updated>
+    </task>
+    <task id="LOCAL-00006" summary="integrated firebase into application, created sign in page with sign in with google">
+      <created>1621176601073</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621176601073</updated>
+    </task>
+    <task id="LOCAL-00007" summary="implemented firebase utils, included ability to store authenticated users in our firestore database.">
+      <created>1621183340394</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621183340394</updated>
+    </task>
+    <task id="LOCAL-00008" summary="finishing sign in handlesubmit method">
+      <created>1621183539418</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621183539418</updated>
+    </task>
+    <task id="LOCAL-00009" summary="finishing sign in handlesubmit method">
+      <created>1621183744401</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621183744401</updated>
+    </task>
+    <task id="LOCAL-00010" summary="integrate redux reducers, mapstatetoprops, mapdispatchtoprops">
+      <created>1621240501839</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1621240501840</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added cart icon and cart dropdown component to our application also implemented cartReducer">
+      <created>1621268884964</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621268884964</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated shop data with new shop data&#10;added cart reducer">
+      <created>1621271320322</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1621271320322</updated>
+    </task>
+    <task id="LOCAL-00013" summary="created cart-iem component and connected our cart dropdown with caritems">
+      <created>1621337689439</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1621337689439</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updating our application w/ reselect and memoization">
+      <created>1621339283857</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1621339283857</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added checkout page, checkout item component, updated cart selector from reselect">
+      <created>1621344410777</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1621344410777</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added add item and remove item in checkout functionality">
+      <created>1621349561971</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1621349561971</updated>
+    </task>
+    <task id="LOCAL-00017" summary="migrate this.state to reducer&#10;added new reducer for directory, shop&#10;added component collection overview">
+      <created>1621998787005</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1621998787005</updated>
+    </task>
+    <task id="LOCAL-00018" summary="created respective selectors and updated redux flow for directory/shop">
+      <created>1622021756475</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1622021756475</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updating stripe integration and updating our favicon and title">
+      <created>1622024571849</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1622024571849</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="broken our homepage into smaller components, finished styling our menu-item component" />
+    <MESSAGE value="added routing, withrouter" />
+    <MESSAGE value="updating our app with a shop page, collection preview and collection item component" />
+    <MESSAGE value="added header component and links to home, shop and contact" />
+    <MESSAGE value="added signin, custom button components" />
+    <MESSAGE value="integrated firebase into application, created sign in page with sign in with google" />
+    <MESSAGE value="implemented firebase utils, included ability to store authenticated users in our firestore database." />
+    <MESSAGE value="finishing sign in handlesubmit method" />
+    <MESSAGE value="integrate redux reducers, mapstatetoprops, mapdispatchtoprops" />
+    <MESSAGE value="added cart icon and cart dropdown component to our application also implemented cartReducer" />
+    <MESSAGE value="updated shop data with new shop data&#10;added cart reducer" />
+    <MESSAGE value="created cart-iem component and connected our cart dropdown with caritems" />
+    <MESSAGE value="updating our application w/ reselect and memoization" />
+    <MESSAGE value="added checkout page, checkout item component, updated cart selector from reselect" />
+    <MESSAGE value="added add item and remove item in checkout functionality" />
+    <MESSAGE value="migrate this.state to reducer&#10;added new reducer for directory, shop&#10;added component collection overview" />
+    <MESSAGE value="created respective selectors and updated redux flow for directory/shop" />
+    <MESSAGE value="updating stripe integration and updating our favicon and title" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating stripe integration and updating our favicon and title" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.js</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
